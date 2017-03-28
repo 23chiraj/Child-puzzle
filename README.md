@@ -3,7 +3,7 @@
 <img src='https://raw.githubusercontent.com/mohitrajain/Most-Annoying-Puzzle-childhood/master/images.jpg' ></img>
 <h1>node solution.js </h1>
 
-
+```
 var i = 0;
 var j = 0;
 // var success to check for success(1) or failure(0)
@@ -107,3 +107,4 @@ console.log(i);
 
 // i will count number of different paths or dfs choose before winning or losing
 console.log(j);
+```
